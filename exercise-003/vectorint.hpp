@@ -15,6 +15,7 @@ private:
     int m_size;
     int* mp_Data;
     int m_capacity;
+    int m_null;
 };
 
 #endif
